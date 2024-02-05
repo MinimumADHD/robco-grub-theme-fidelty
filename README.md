@@ -9,6 +9,8 @@ ARCH:
 ```sh
 sudo pacman -S wget
 ```
+![background.png](background.png)
+
 
 INSTALLING GRUB THEME:
 ```sh
